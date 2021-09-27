@@ -1,4 +1,4 @@
-# sciview-i2k
+# sciview-hip-2021
 
 Tutorial materials for sciview at the HIP Summer School (2021).
 
