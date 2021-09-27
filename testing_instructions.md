@@ -10,6 +10,4 @@
 
 ![Segmentation example screenshot](show_segmentation_screenshot.png)
 
-###
 
-Contact Kyle Harrington or Ulrik Guenther if you have specific questions.
